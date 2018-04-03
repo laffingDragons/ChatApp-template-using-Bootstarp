@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(239, 28, 77, 1) !important;
+    font-family: 'Lato', sans-serif !important;
+    letter-spacing: 1px
+}
+
+:root {
+    font-size: 16px
+}
+
+.title {
+    color: white;
+}
+
+.contact-icon {
+    margin-left: 6%;
+}
+
+.search-icon {
+    margin-left: 6%;
+}
+
+.search-text {
+    color: #212529;
+    margin-top: auto;
+    margin-left: 2%;
+    font-size: 1.6rem;
+}
+
+.chat-card {
+    width: 100%;
+    padding: 13px;
+    border-top-left-radius: 2rem!important;
+    border-top-right-radius: 2rem!important;
+}
+
+
+/* mixi */
+
+.text-overflow {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.chat-name {
+    margin-left: 9%;
+}
