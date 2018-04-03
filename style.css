@@ -41,8 +41,20 @@ body {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    color: #495057 !important;
 }
 
 .chat-name {
     margin-left: 9%;
+}
+
+.add-icon {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 5%;
+}
+
+.line-color {
+    color: #EF1C4D;
 }
