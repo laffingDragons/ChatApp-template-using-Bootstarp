@@ -54,7 +54,10 @@ body {
     bottom: 0;
     right: 0;
     margin: 5%;
-    color: #EF1C4D;
+}
+
+.add-icon-style {
+    color: #EF1C4D !important;
 }
 
 .line-color {
@@ -291,5 +294,5 @@ body {
 
 .back-contact {
     display: inline;
-    color: #212529;
+    color: #495057 !important;
 }
