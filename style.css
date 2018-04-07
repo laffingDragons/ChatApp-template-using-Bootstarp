@@ -54,6 +54,7 @@ body {
     bottom: 0;
     right: 0;
     margin: 5%;
+    color: #EF1C4D;
 }
 
 .line-color {
@@ -245,4 +246,50 @@ body {
     bottom: 0px;
     margin: 0 auto 0 auto !important;
     flex-wrap: nowrap !important;
+    width: 100%;
+}
+
+
+/* profile page styling */
+
+.margin-top-profile {
+    margin-top: 86px;
+    margin-bottom: 20px;
+    padding-right: 15px;
+    /* padding-left: 28px !important; */
+}
+
+.heading-profile {
+    font-size: 2.3rem;
+    margin: 0;
+}
+
+.camera-position {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+.background-color {
+    background-color: white;
+    display: inline;
+}
+
+.icon-property {
+    display: inline;
+    /* margin-top: 10px; */
+    margin-top: 10px;
+}
+
+.status-card {
+    width: 100%;
+    border-top-left-radius: 2rem!important;
+    border-top-right-radius: 2rem!important;
+    -webkit-box-shadow: 0 6px 20px 2px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 6px 20px 2px rgba(0, 0, 0, 0.4);
+}
+
+.back-contact {
+    display: inline;
+    color: #212529;
 }
